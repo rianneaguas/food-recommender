@@ -2,7 +2,6 @@
 
 	$host = "304.itpwebdev.com";
 	$user = "raguas_db_user";
-	$pass = "Gyozasan02!";
 	$db = "raguas_final_db";
 
 	// 1. Establish MySQL Connection
