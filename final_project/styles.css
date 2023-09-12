@@ -1,0 +1,51 @@
+body{
+	font-family: 'Quicksand', sans-serif;
+	background-color: #F7F0DD;
+	color: #F7F0DD;
+}
+
+.main {
+	width: 80%;
+	margin: 50px auto;
+	border-radius: 30px;
+	padding: 10px 30px;
+}
+
+h1 {
+	text-align: center;
+	font-weight: 700px;
+	color: #D93823;
+}
+
+h2 {
+	text-align: center;
+	color: #D95204;
+}
+
+h3 {
+	text-align: center;
+	color: #E8B546;
+}
+
+img:hover {
+	transform: scale(1.1);
+	transition: all 1s;
+}
+
+.buttons{
+	margin: 0px auto;
+	padding: 0px auto;
+	text-align: center;
+}
+
+.clearfloat {
+	clear: both;
+}
+
+.footer{
+	text-align: center;
+	margin: 50px;
+	color: black;
+	font-family: 'Quicksand', sans-serif;
+	margin-top: 70px;
+}
